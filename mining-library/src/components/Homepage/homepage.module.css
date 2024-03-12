@@ -1,7 +1,22 @@
-.homeBg{
-    background-image: url("./assets/homeBG.png");
-    background-size: cover;
-    max-height: 1080px;
-    width: 1366px;
-    height: 768px;
+.home {
+    background-image: url(./assets/home.png);
+    background-size: 100% 100%;
+    max-height: 839px;
+    width: auto;
+    height: 839px;
+    margin: -8px -8px -8px -8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.homeh1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.homeh3 {
+    color: white;
+    text-align: center;
 }
