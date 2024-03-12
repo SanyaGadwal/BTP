@@ -1,0 +1,7 @@
+.homeBg{
+    background-image: url("./assets/homeBG.png");
+    background-size: cover;
+    max-height: 1080px;
+    width: 1366px;
+    height: 768px;
+}
