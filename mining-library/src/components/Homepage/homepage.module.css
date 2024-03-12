@@ -1,22 +1,34 @@
+@import url(https://db.onlinewebfonts.com/c/8cdbb48678e4418f22a2f507c2b975bd?family=Blanka-Regular);
+@import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
+
 .home {
     background-image: url(./assets/home.png);
     background-size: 100% 100%;
+    background-position: 50% 50%;
     max-height: 839px;
     width: auto;
-    height: 839px;
+    height: 530px;
     margin: -8px -8px -8px -8px;
     display: flex;
-    align-items: center;
     justify-content: center;
+    padding-top: 200px;
 }
 
 .homeh1 {
     color: white;
     text-align: center;
     font-size: 100px;
+    font-family: "Blanka-Regular";
+    margin-top: 0%;
+    margin-bottom: 5%;
 }
 
 .homeh3 {
     color: white;
     text-align: center;
+    width: 1040px;
+    font-size: 25px;
+    font-family: 'Glacial Indifference', sans-serif;
+    margin-bottom: 0%;
+    
 }
