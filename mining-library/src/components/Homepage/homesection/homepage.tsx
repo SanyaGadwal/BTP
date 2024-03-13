@@ -10,11 +10,6 @@ const Home = () => {
                     <p className={style.homeh3}>We seek to provide a centralized platform containing comprehensive resources related to various courses in Mining Engineering. From curated study materials and class notes to insightful reference material, we offer everything you need to succeed.  Sharpen your skills and dive deep into the world of mining engineering with Mine Master.</p>
                 </div>
             </div>
-
-            <div>
-                <h1 className={style.chooseSem}>Choose Semester</h1>
-
-            </div>
         </>
     )
 }

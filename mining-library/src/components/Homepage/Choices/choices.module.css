@@ -1,0 +1,48 @@
+@import url(https://db.onlinewebfonts.com/c/8cdbb48678e4418f22a2f507c2b975bd?family=Blanka-Regular);
+@import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
+
+.chooseSem{
+    background-color: black;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    max-height: 839px;
+    width: auto;
+    height: 530px;
+    margin: -8px -8px -8px -8px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 200px;
+    color: aliceblue;
+}
+.semTitle{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:300%;
+    margin-top: -5%;
+    margin-bottom: 5%;
+}
+.semContainer{
+    justify-content: center;
+    display:flex;
+    flex-wrap: wrap;
+}
+.sem{
+    color: white;
+    text-align: center;
+    font-size: 110%;
+    text-decoration: none;
+    font-family: 'Glacial Indifference', sans-serif;
+    font-weight: bolder;
+    
+}
+.sembutton{
+    border: 4px solid #f1e8e8;
+    border-radius: 8px;
+    margin: 1%;
+    padding: 4% 5% 4% 5%;
+    width: 150px; 
+    transition: box-shadow 0.3s;  
+}
+.sembutton:hover {
+    box-shadow: 0 0 20px 10px rgba(52, 152, 219, 0.7); /* Glow effect */
+}
