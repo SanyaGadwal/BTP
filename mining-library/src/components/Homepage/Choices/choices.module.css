@@ -25,12 +25,12 @@
     justify-content: center;
     display:flex;
     flex-wrap: wrap;
+    
 }
 .sem{
     color: white;
     text-align: center;
     font-size: 110%;
-    text-decoration: none;
     font-family: 'Glacial Indifference', sans-serif;
     font-weight: bolder;
     
