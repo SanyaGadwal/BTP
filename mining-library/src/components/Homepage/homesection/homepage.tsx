@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './homepage.module.css'
-const Home = () => {
+const HomePage = () => {
     return (
         <>
             <div className={style.home}>
@@ -14,4 +14,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default HomePage
