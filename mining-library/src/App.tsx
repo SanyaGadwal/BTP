@@ -7,10 +7,15 @@ import Sem2 from './components/Coursepage/Sem2/sem2';
 import MN111 from './components/Courses/MN111/mn111';
 import './App.css'
 
+
+
+
 function App() {
 
   return (
     <>
+
+   
       <Router>
         <Routes>
           <Route path='/' element={<Home />}></Route>
