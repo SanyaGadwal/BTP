@@ -7,7 +7,7 @@
     background-position: 50% 50%;
     max-height: 839px;
     width: auto;
-    height: 530px;
+    height: 680px;
     margin: -8px -8px -8px -8px;
     text-align: center;
     justify-content: center;
@@ -40,8 +40,9 @@
     border-radius: 8px;
     margin: 1%;
     padding: 4% 5% 4% 5%;
-    width: 150px; 
+    width: 300px; 
     transition: box-shadow 0.3s;  
+
 }
 .sembutton:hover {
     box-shadow: 0 0 20px 10px rgba(52, 152, 219, 0.7); /* Glow effect */
