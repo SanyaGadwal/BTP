@@ -2,23 +2,17 @@
 @import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
 
 .chooseSem{
-    background-color: black;
-    background-size: 100% 100%;
-    background-position: 50% 50%;
-    max-height: 839px;
-    width: auto;
-    height: 680px;
-    margin: -8px -8px -8px -8px;
+    background-size: cover;
     text-align: center;
     justify-content: center;
-    padding-top: 200px;
+    padding-top: 10%;
+    padding-bottom: 10%;
     color: aliceblue;
 }
 .semTitle{
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:300%;
-    margin-top: -5%;
     margin-bottom: 5%;
 }
 .semContainer{

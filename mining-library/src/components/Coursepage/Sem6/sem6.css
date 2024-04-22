@@ -1,0 +1,17 @@
+.sem6Title{
+  color: white;
+  justify-content: center;
+  text-align: center;
+  font-size: 300%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 5%;
+
+}
+
+.sem6Container{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  
+}
