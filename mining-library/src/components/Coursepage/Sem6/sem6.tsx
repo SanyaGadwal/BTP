@@ -17,21 +17,21 @@ const Sem6 = () => {
             imgAlt="Environmental Management"
             title="MN 342"
             description="Environmental Management in Surface Mines"
-            link="card1"
+            link="mn342"
           />
           <Card
             imgSrc={mn332}
             imgAlt="Card Image 2"
             title="MN 332"
             description="Fundamentals of Rock Mechanics Instrumentation"
-            link="card2"
+            link="mn332"
           />
           <Card
             imgSrc={mn322}
             imgAlt="Card Image 3"
             title="MN 322"
             description="Metalliferous Mining"
-            link="card2"
+            link="mn322"
           />
         
         
