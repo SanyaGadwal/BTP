@@ -1,0 +1,25 @@
+
+.mn111Title{
+    color: aliceblue;
+    text-align: center;
+    margin: 5%;
+    font-size: xx-large;
+}
+.mn111links{
+    text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+.mn111links:hover{
+    color: aqua;
+}
+.mn111material{
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 12% 27% 12% 27%;
+    padding: 1% 0% 1% 0%;
+    
+   transition: box-shadow 0.3s; 
+   text-align: center;
+   
+}

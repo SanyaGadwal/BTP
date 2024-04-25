@@ -10,6 +10,7 @@ const Card = ({
     link,
 }) => {
     
+    
     return (
         <Link to={link} className="card-link">
             <div className="card-container">

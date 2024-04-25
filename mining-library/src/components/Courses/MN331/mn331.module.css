@@ -1,0 +1,24 @@
+.mn331Title{
+    color: aliceblue;
+    text-align: center;
+    margin: 5%;
+    font-size: xx-large;
+}
+.mn331links{
+    text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+.mn331links:hover{
+    color: aqua;
+}
+.mn331box{
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 1% 15% 1% 15%;
+    padding: 1% 0% 1% 0%;
+    
+   transition: box-shadow 0.3s; 
+   text-align: center;
+   
+}

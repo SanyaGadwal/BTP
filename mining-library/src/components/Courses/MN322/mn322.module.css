@@ -1,3 +1,36 @@
-.mn111Title{
+.mn322Title{
     color: white;
+    text-align: center;
+    padding-bottom: 4%;
+}
+.mn322heads{
+    color: aliceblue;
+    
+    border: 2px solid white;
+    display: inline;
+   margin: 5%;
+   padding: 2% 1% 2% 1%;
+    transition: box-shadow 0.3s;  
+   
+}
+.mn322subheads{
+    color: aliceblue;
+   margin: 4.5%;
+}
+.mn322points{
+    color: aliceblue;
+    margin: 5%;
+   
+}
+.mn322numpoints{
+    list-style: decimal;
+    color: aliceblue;
+}
+.mn322lines{
+    color: aliceblue;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    font-size:medium;
+    
 }
