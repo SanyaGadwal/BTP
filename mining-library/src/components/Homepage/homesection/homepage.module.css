@@ -1,15 +1,28 @@
 @import url(https://db.onlinewebfonts.com/c/8cdbb48678e4418f22a2f507c2b975bd?family=Blanka-Regular);
 @import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
 
+@keyframes changeBackground {
+    0%, 100% {
+      background-image: url('./assets/home1.png');
+    }
+    33.33% {
+      background-image: url('./assets/home2.jpg');
+    }
+    66.66% {
+      background-image: url('./assets/home3.jpg');
+    }
+  }
+
 .home {
-    background-image: url(./assets/home.png);
+    /* background-image: url(./assets/home.png); */
     overflow-x: hidden;
     background-size: cover;
     background-position: center center;
     height: 100%;
     display: flex;
     justify-content: center;
-    padding-top: 200px;
+    padding-top: 150px;
+    animation: changeBackground 6s infinite;
 }
 
 .homeBg{
@@ -23,7 +36,7 @@
     font-size: 100px;
     font-family: "Blanka-Regular";
     margin-top: 0%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 .homeh2 {
@@ -46,4 +59,53 @@
     font-family: 'Glacial Indifference', sans-serif;
     margin: 0 10% 10% 10%;
     
+}
+
+.homeh4 {
+    background: transparent;
+    color: white;
+    text-align: center;
+    width: 80%;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Glacial Indifference', sans-serif;
+    margin: 0 10% 0% 10%;
+    
+}
+
+.homeAbout {
+    justify-content: center;
+    text-align: center;
+}
+
+.homeAboutTitle {
+    color: white;
+    font-weight: 900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 7%;
+    font-size:300%;
+}
+
+.homeImportance {
+    display: flex;
+}
+
+.homeAboutContent {
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+    margin: 5% 5% 5% 5%;
+    font-family: 'Glacial Indifference', sans-serif;
+}
+
+.homeAboutImage {
+    width: 40%;
+    height: 500px;
+    margin: 5% 5% 5% 0%;
+}
+
+.homeAboutList {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
 }
