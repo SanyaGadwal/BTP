@@ -1,36 +1,24 @@
 .mn322Title{
-    color: white;
+    color: aliceblue;
     text-align: center;
-    padding-bottom: 4%;
-}
-.mn322heads{
-    color: aliceblue;
-    
-    border: 2px solid white;
-    display: inline;
-   margin: 5%;
-   padding: 2% 1% 2% 1%;
-    transition: box-shadow 0.3s;  
-   
-}
-.mn322subheads{
-    color: aliceblue;
-   margin: 4.5%;
-}
-.mn322points{
-    color: aliceblue;
     margin: 5%;
-   
+    font-size: xx-large;
 }
-.mn322numpoints{
-    list-style: decimal;
-    color: aliceblue;
+.mn322links{
+    text-decoration: none;
+  color: aliceblue;
+  display: inline;
 }
-.mn322lines{
-    color: aliceblue;
-    margin-left: 4%;
-    margin-bottom: 4%;
-    margin-top: 4%;
-    font-size:medium;
+.mn322links:hover{
+    color: aqua;
+}
+.mn322box{
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 1% 15% 1% 15%;
+    padding: 1% 0% 1% 0%;
     
+   transition: box-shadow 0.3s; 
+   text-align: center;
+   
 }

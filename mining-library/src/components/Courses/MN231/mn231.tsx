@@ -9,23 +9,23 @@ const MN231 = () => {
                 <h1 className={style.mn231Title}>MN-231</h1>
                 <div className={style.mn231material}>
                 <div className={style.mn231box}><a className ={style.mn231links}
-                href='https://drive.google.com/file/d/1xpTtkLFFYlzxM2-v3iovG_Ap62zY2bQp/view?usp=drive_link' >
+                href='https://drive.google.com/file/d/1MVK0klerA4Q508pYV4xKd7EO8_uIyQ-B/view?usp=drive_link' >
                     <h2>Course Overview</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
-                    href ='https://drive.google.com/file/d/1yys0QOPPAAf7YT_0T7G4xIg-gbNqgc68/view?usp=drive_link'>
+                    href ='https://drive.google.com/file/d/1Pv0EjwvslHqFQcAfzVgd9b0mkpALXZSO/view?usp=drive_link'>
             <h2>Rockmass Classification</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
-                    href ='https://drive.google.com/file/d/1gHv2HmtfYBlfmsgTyydrXihP9K3n59mw/view?usp=drive_link'>
+                    href ='https://drive.google.com/file/d/1Lpvb_Ybgf0L5c9BLkfr2GQr81IH0snt2/view?usp=drive_link'>
             <h2>Analysis of stress</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
-                    href ='https://drive.google.com/file/d/1KHl66LtRSEkFLRvATeqvtR7fT9RYqO1H/view?usp=drive_link'>
+                    href ='https://drive.google.com/file/d/1uiCqGyNcCywjx4vVGXiT_VAb4jjsEOdW/view?usp=drive_link'>
             <h2>Design of coal pillar</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
-                    href ='https://drive.google.com/file/d/1WcC-Yr9_3Aqd1iIZ8_Zvlp5crxhY3bDA/view?usp=drive_link'>
+                    href ='https://drive.google.com/file/d/18pGmxNFZzoRmRPxgCLJFL8uQVWeywMim/view?usp=drive_link'>
             <h2>Introduction to rock mechanics</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
@@ -61,9 +61,18 @@ const MN231 = () => {
             <h2>Stress-Strain Relationship</h2>
                     </a></div>
                     <div className={style.mn231box}><a className ={style.mn231links}
+                    href ='https://drive.google.com/file/d/1PWy_y2f3aZpcGg4HahZv0-f1OeuSyyU7/view?usp=drive_link'>
+            <h2>Handwritten Notes</h2>
+                    </a></div>
+                    <div className={style.mn231box}><a className ={style.mn231links}
                     href ='https://drive.google.com/file/d/1zvd5auORvAf5M9EuE76SpmNfOtdboKlh/view?usp=drive_link'>
             <h2>Lab Practical Manual</h2>
                     </a></div>
+                    <div className={style.mn231box}><a className ={style.mn231links}
+                    href ='https://drive.google.com/file/d/12isD8FF_P5VSrqXPNamjJReryJqghrwX/view?usp=drive_link'>
+            <h2>References</h2>
+                    </a></div>
+                    
 
             </div>
             </div>

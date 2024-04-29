@@ -9,7 +9,7 @@ const MN221 = () => {
                 <h1 className={style.mn221Title}>MN-221</h1>
                 <div className={style.mn221material}>
                 <div className={style.mn221box}><a className ={style.mn221links}
-                href='https://drive.google.com/file/d/1Ni4l0WWPyuo3PcSfAyeB_-4N22OYpvdh/view?usp=drive_link' >
+                href='https://drive.google.com/file/d/1_w7iaDhDnr80FgyVRRBP26Vt70UpTobw/view?usp=drive_link' >
                     <h2>Course Overview</h2>
                     </a></div>
                     <div className={style.mn221box}><a className ={style.mn221links}
@@ -40,7 +40,10 @@ const MN221 = () => {
                     href ='https://drive.google.com/file/d/14YBcXnoM7zf4uZsVWZItb1JWKtjM7t1e/view?usp=drive_link'>
             <h2>Handwritten Notes</h2>
                     </a></div>
-                  
+                    <div className={style.mn221box}><a className ={style.mn221links}
+                    href ='https://drive.google.com/file/d/1fCAlaP9qr0EV5rjdG6tnmFxFO759RMan/view?usp=drive_link'>
+            <h2>References</h2>
+                    </a></div>
  
             </div>
             </div>

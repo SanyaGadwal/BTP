@@ -18,6 +18,13 @@ import MN211 from './components/Courses/MN211/mn211';
 import MN212 from './components/Courses/MN212/mn212';
 import MN251 from './components/Courses/MN251/mn251';
 import MN331 from './components/Courses/MN331/mn331';
+import MN321 from './components/Courses/MN321/mn321';
+import MN361 from './components/Courses/MN361/mn361';
+import MN333 from './components/Courses/MN333/mn333';
+import MN341 from './components/Courses/MN341/mn341';
+import MN342 from './components/Courses/MN342/mn342';
+import MN332 from './components/Courses/MN332/mn332';
+
 import './App.css'
 
 
@@ -50,6 +57,13 @@ function App() {
           <Route path='/sem3/mn212' element={<MN212 />}></Route>
           <Route path='/sem3/mn251' element={<MN251 />}></Route>
           <Route path='/sem5/mn331' element={<MN331 />}></Route>
+          <Route path='/sem5/mn321' element={<MN321 />}></Route>
+          <Route path='/sem5/mn361' element={<MN361 />}></Route>
+          <Route path='/sem5/mn333' element={<MN333 />}></Route>
+          <Route path='/sem5/mn341' element={<MN341 />}></Route>
+          <Route path='/sem6/mn342' element={<MN342 />}></Route>
+          <Route path='/sem6/mn332' element={<MN332 />}></Route>
+          
         </Routes>
       </Router>
     </>

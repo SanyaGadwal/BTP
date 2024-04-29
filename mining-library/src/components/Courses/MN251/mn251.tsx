@@ -9,8 +9,12 @@ const MN251 = () => {
                 <h1 className={style.mn251Title}>MN-251</h1>
                 <div className={style.mn251material}>
                 <div className={style.mn251box}><a className ={style.mn251links}
-                href='https://drive.google.com/file/d/19Jf_gNllLSevvy9W7MyhdEvE9vgHarx5/view?usp=drive_link' >
+                href='https://drive.google.com/file/d/1dtJB1p1ADd7qv7prdsHgnpdGy9bNRrts/view?usp=drive_link' >
                     <h2>Mining Methods</h2>
+                    </a></div>
+                    <div className={style.mn251box}><a className ={style.mn251links}
+                href='https://drive.google.com/file/d/19Jf_gNllLSevvy9W7MyhdEvE9vgHarx5/view?usp=drive_link' >
+                    <h2>Basic Mining Equipments</h2>
                     </a></div>
                     <div className={style.mn251box}><a className ={style.mn251links}
                     href ='https://drive.google.com/file/d/1NjPXcwFR9ZsrYscdHfjC7AuP5mT-w8X5/view?usp=drive_link'>
