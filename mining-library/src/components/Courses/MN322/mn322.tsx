@@ -29,12 +29,13 @@ const MN322 = () => {
             <h2>Shaft Sinking</h2>
                     </a></div>
                     <div className={style.mn322box}><a className ={style.mn322links}
-                    href ='https://drive.google.com/file/d/1zpDftgnA1FIEURUfMaTrWko1l_DlrayU/view?usp=drive_link'>
+                    href ='https://docs.google.com/document/d/1a5a4tIlixVRVmGKrEnX6DCpZUBZcBAMKIKXgjRBUzjg/edit?usp=drive_link'>
             <h2>Sublevel Stoping</h2>
                     </a></div>
                    
                     <div className={style.mn322box}><a className ={style.mn322links}
                     href ='https://drive.google.com/file/d/1S1RjcNceoXSyQj_DFshzokUSDM3KzCbq/view?usp=drive_link'>
+                        
             <h2>Handwritten Notes</h2>
                     </a></div>
                     
